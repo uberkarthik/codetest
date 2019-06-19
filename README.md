@@ -1,5 +1,5 @@
 # codetest
-This single file is my answer to the code test I was assigned. 
+This minspread.py is my answer to both of the problems in the code test I was assigned. However, I added the myscript.py file to make minspread.py even more usable than it normally would be. I've explained the details below. Please do note that I do, indeed, have one file (minspread.py) as the main logic to answer both problems, and that the myscript.py one is a helper script that increases the  scalability and usability of minspread.py.
 
 # Below is the exact prompt that I was given, with an answer to the given question at the end of the prompt: 
 
