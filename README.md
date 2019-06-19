@@ -26,11 +26,17 @@ How to use:
 file_name columntocompare1 columntocompare2 desiredresultcolumn
 # --> Here are the ways required to answer questions 1 and 2:
 1) minspread.py 
+  
   a) python minspread.py w_data.dat 2 3 1
+  
   b) python minspread.py soccer.dat 7 9 2
+  
 2) myscript.py
+
   a) python myscript.py w_data
+  
   b) python myscript.py soccer
+  
 
 I designed some run-time error handling in case the user wishes to use this program for other dat files. 
 
